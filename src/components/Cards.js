@@ -59,7 +59,7 @@ function check(current) {
         setItems([...items]);
         setPrev(-1);
       }, 
-      5);
+      1);
     }
   }
   
